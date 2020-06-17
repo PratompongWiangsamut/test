@@ -1,4 +1,3 @@
-# preventive-health-care-blog
 Install for React
 cd frontend
 npm install
