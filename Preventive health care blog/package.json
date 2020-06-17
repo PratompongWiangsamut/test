@@ -1,0 +1,9 @@
+{
+  "name": "preventive-health-care-blog",
+  "version": "0.0.0",
+  "description": "Preventive health care blog",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
